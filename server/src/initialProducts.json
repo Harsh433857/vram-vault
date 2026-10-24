@@ -1,0 +1,2148 @@
+[
+  {
+    "_id": "6adb4c6e718388b2ea12ebd0",
+    "name": "CyberPulse 6G Pulse Edition",
+    "slug": "cyberpulse-6g-pulse-edition",
+    "description": "Ultracompact 1080p competitive esports powerhouse with whisper-quiet dual cooling",
+    "price": 199.99,
+    "stock": 18,
+    "category": "4-8 vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 6,
+    "vramType": "GDDR6",
+    "busWidth": "128-bit",
+    "boostClock": 2475,
+    "tdpWatts": 115,
+    "recommendedPsu": 450,
+    "cooling": "Dual Fan",
+    "rating": 4.6,
+    "reviewsCount": 84,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.312Z",
+    "updatedAt": "2026-10-24T07:35:14.577Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827312/vram_vault/backplates/s0cykfu3ue3v7vgkcyf9.jpg",
+    "badge": "VALUE PICK",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (1080p Med)",
+        "fps1080p": 68,
+        "fps1440p": 44,
+        "fps4k": 22
+      },
+      {
+        "game": "Black Myth: Wukong (1080p)",
+        "fps1080p": 55,
+        "fps1440p": 35,
+        "fps4k": 18
+      },
+      {
+        "game": "Valorant / CS2 (High)",
+        "fps1080p": 285,
+        "fps1440p": 190,
+        "fps4k": 110
+      },
+      {
+        "game": "Apex Legends (High)",
+        "fps1080p": 122,
+        "fps1440p": 78,
+        "fps4k": 42
+      }
+    ],
+    "code": "CP-6000-OC",
+    "coreClock": 2040,
+    "cores": 2048,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827311/vram_vault/desks/lece2vflvhchaemskfex.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "Zero RPM Fan Mode",
+      "Compact ITX Ready",
+      "Metal Reinforcement Frame",
+      "Direct Contact Heatpipes"
+    ],
+    "id": "gpu-v4-01",
+    "inStock": true,
+    "lengthMm": 205,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827310/vram_vault/products/m98w7gmtxst2pohhvkxa.jpg",
+    "originalPrice": 229.99,
+    "ports": [
+      "2x DisplayPort 1.4a",
+      "1x HDMI 2.1"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827313/vram_vault/ports/vxd6xlokep88on4dh7kt.jpg",
+    "slots": 2,
+    "stockUnits": 18,
+    "tagline": "Ultracompact 1080p competitive esports powerhouse with whisper-quiet dual cooling"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebd1",
+    "name": "Vortex Phantom 8G Stealth",
+    "slug": "vortex-phantom-8g-stealth",
+    "description": "Dark-metal shrouding engineered for maximum airflow and high-refresh 1080p gameplay",
+    "price": 249.99,
+    "stock": 25,
+    "category": "4-8 vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 8,
+    "vramType": "GDDR6",
+    "busWidth": "128-bit",
+    "boostClock": 2565,
+    "tdpWatts": 130,
+    "recommendedPsu": 500,
+    "cooling": "Dual Fan",
+    "rating": 4.7,
+    "reviewsCount": 112,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.314Z",
+    "updatedAt": "2026-10-24T07:35:17.608Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827316/vram_vault/backplates/y4velpt2llt8qpdpfhjx.jpg",
+    "badge": "BESTSELLER",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (1080p Ultra)",
+        "fps1080p": 76,
+        "fps1440p": 51,
+        "fps4k": 28
+      },
+      {
+        "game": "Black Myth: Wukong (1080p Med)",
+        "fps1080p": 64,
+        "fps1440p": 42,
+        "fps4k": 22
+      },
+      {
+        "game": "Valorant / CS2 (High)",
+        "fps1080p": 320,
+        "fps1440p": 230,
+        "fps4k": 135
+      },
+      {
+        "game": "Apex Legends (High)",
+        "fps1080p": 145,
+        "fps1440p": 95,
+        "fps4k": 52
+      }
+    ],
+    "code": "VP-8000-ST",
+    "coreClock": 2150,
+    "cores": 2560,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827316/vram_vault/desks/pmqnywcjjprhzznsoff9.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "Torx Flow Dual Blades",
+      "DrMOS Power Stages",
+      "Precision Brushed Backplate",
+      "RGB Edge Lighting"
+    ],
+    "id": "gpu-v4-02",
+    "inStock": true,
+    "lengthMm": 220,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827315/vram_vault/products/wr4be0wuppx81xtdqoii.jpg",
+    "originalPrice": 279.99,
+    "ports": [
+      "3x DisplayPort 1.4a",
+      "1x HDMI 2.1"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827317/vram_vault/ports/tzq9lq4epkbouq94vewr.jpg",
+    "slots": 2,
+    "stockUnits": 25,
+    "tagline": "Dark-metal shrouding engineered for maximum airflow and high-refresh 1080p gameplay"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebd2",
+    "name": "AeroForge 8G AeroBlade",
+    "slug": "aeroforge-8g-aeroblade",
+    "description": "Precision-cut aerospace alloy armor with dual-chamber copper heat spreader",
+    "price": 269.99,
+    "stock": 14,
+    "category": "4-8 vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 8,
+    "vramType": "GDDR6",
+    "busWidth": "128-bit",
+    "boostClock": 2600,
+    "tdpWatts": 140,
+    "recommendedPsu": 550,
+    "cooling": "Dual Fan",
+    "rating": 4.8,
+    "reviewsCount": 63,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.315Z",
+    "updatedAt": "2026-10-24T07:35:20.420Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827319/vram_vault/backplates/ecexe7aug5ntbzjsy4l0.jpg",
+    "badge": "OVERCLOCKED",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (1080p Ultra)",
+        "fps1080p": 81,
+        "fps1440p": 55,
+        "fps4k": 30
+      },
+      {
+        "game": "Black Myth: Wukong (1080p)",
+        "fps1080p": 69,
+        "fps1440p": 46,
+        "fps4k": 25
+      },
+      {
+        "game": "Valorant / CS2 (High)",
+        "fps1080p": 345,
+        "fps1440p": 245,
+        "fps4k": 145
+      },
+      {
+        "game": "Apex Legends (High)",
+        "fps1080p": 155,
+        "fps1440p": 104,
+        "fps4k": 58
+      }
+    ],
+    "code": "AF-8080-AB",
+    "coreClock": 2180,
+    "cores": 2816,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827319/vram_vault/desks/phbw9rs01tvhkgwezivn.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "Dual Ball Bearing Fans",
+      "Die-Cast Aluminum Heat Pipe",
+      "Anti-Sag Bracket Included",
+      "Dual BIOS Switch"
+    ],
+    "id": "gpu-v4-03",
+    "inStock": true,
+    "lengthMm": 235,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827318/vram_vault/products/ex4dpbmc7zlqbvdhtz9l.jpg",
+    "originalPrice": 299.99,
+    "ports": [
+      "3x DisplayPort 1.4a",
+      "1x HDMI 2.1"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827320/vram_vault/ports/gukwju2aulzsavauwgfb.jpg",
+    "slots": 2.2,
+    "stockUnits": 14,
+    "tagline": "Precision-cut aerospace alloy armor with dual-chamber copper heat spreader"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebd3",
+    "name": "NitroBlade 8G Storm",
+    "slug": "nitroblade-8g-storm",
+    "description": "Aggressive geometric casing and high-static-pressure fans for marathon gaming runs",
+    "price": 239.99,
+    "stock": 8,
+    "category": "4-8 vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 8,
+    "vramType": "GDDR6",
+    "busWidth": "128-bit",
+    "boostClock": 2570,
+    "tdpWatts": 135,
+    "recommendedPsu": 500,
+    "cooling": "Dual Fan",
+    "rating": 4.5,
+    "reviewsCount": 47,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.315Z",
+    "updatedAt": "2026-10-24T07:35:23.065Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827322/vram_vault/backplates/hceiwj160phzqglr2oyz.jpg",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (1080p High)",
+        "fps1080p": 74,
+        "fps1440p": 49,
+        "fps4k": 26
+      },
+      {
+        "game": "Black Myth: Wukong (1080p)",
+        "fps1080p": 62,
+        "fps1440p": 40,
+        "fps4k": 21
+      },
+      {
+        "game": "Valorant / CS2 (High)",
+        "fps1080p": 310,
+        "fps1440p": 220,
+        "fps4k": 125
+      },
+      {
+        "game": "Apex Legends (High)",
+        "fps1080p": 138,
+        "fps1440p": 90,
+        "fps4k": 49
+      }
+    ],
+    "code": "NB-8100-SM",
+    "coreClock": 2140,
+    "cores": 2688,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827321/vram_vault/desks/l98utmkzo6qujznurr6p.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "Aura RGB Strips",
+      "Vented Backplate Exhaust",
+      "Silent 0dB Sensor",
+      "Stainless Steel I/O Bracket"
+    ],
+    "id": "gpu-v4-04",
+    "inStock": true,
+    "lengthMm": 228,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827321/vram_vault/products/qhiuvlwcyudw2pdjpz06.jpg",
+    "originalPrice": 269.99,
+    "ports": [
+      "2x DisplayPort 1.4a",
+      "2x HDMI 2.1"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827323/vram_vault/ports/lfadqyvirxv2wbylzisn.jpg",
+    "slots": 2,
+    "stockUnits": 8,
+    "tagline": "Aggressive geometric casing and high-static-pressure fans for marathon gaming runs"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebd4",
+    "name": "Titanium Edge 8G Pure",
+    "slug": "titanium-edge-8g-pure",
+    "description": "Brushed gunmetal edition with optimized fin-stack density and low acoustic signature",
+    "price": 279.99,
+    "stock": 19,
+    "category": "4-8 vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 8,
+    "vramType": "GDDR6",
+    "busWidth": "128-bit",
+    "boostClock": 2620,
+    "tdpWatts": 145,
+    "recommendedPsu": 550,
+    "cooling": "Dual Fan",
+    "rating": 4.9,
+    "reviewsCount": 79,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.315Z",
+    "updatedAt": "2026-10-24T07:35:26.758Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827325/vram_vault/backplates/tapssrxvw6foguubkipv.jpg",
+    "badge": "NEW",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (1080p Ultra)",
+        "fps1080p": 83,
+        "fps1440p": 57,
+        "fps4k": 32
+      },
+      {
+        "game": "Black Myth: Wukong (1080p)",
+        "fps1080p": 71,
+        "fps1440p": 48,
+        "fps4k": 26
+      },
+      {
+        "game": "Valorant / CS2 (High)",
+        "fps1080p": 350,
+        "fps1440p": 250,
+        "fps4k": 150
+      },
+      {
+        "game": "Apex Legends (High)",
+        "fps1080p": 160,
+        "fps1440p": 108,
+        "fps4k": 60
+      }
+    ],
+    "code": "TE-8500-PR",
+    "coreClock": 2200,
+    "cores": 2880,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827324/vram_vault/desks/x6xbtndqzpcrilkn37iz.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "Nickel-Plated Copper Base",
+      "Composite Heatpipes",
+      "Auto-Stop Under 50°C",
+      "Reinforced Rigid PCB"
+    ],
+    "id": "gpu-v4-05",
+    "inStock": true,
+    "lengthMm": 240,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827323/vram_vault/products/mquyitwspa5ls7mhb5zs.jpg",
+    "originalPrice": 309.99,
+    "ports": [
+      "3x DisplayPort 1.4a",
+      "1x HDMI 2.1"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827326/vram_vault/ports/xvrtngbhomblauksjtgi.jpg",
+    "slots": 2.2,
+    "stockUnits": 19,
+    "tagline": "Brushed gunmetal edition with optimized fin-stack density and low acoustic signature"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebd5",
+    "name": "ShadowMatrix 6G Core",
+    "slug": "shadowmatrix-6g-core",
+    "description": "Super compact chassis compatibility with high thermal-conductive graphite pads",
+    "price": 179.99,
+    "stock": 12,
+    "category": "4-8 vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 6,
+    "vramType": "GDDR6",
+    "busWidth": "96-bit",
+    "boostClock": 2410,
+    "tdpWatts": 100,
+    "recommendedPsu": 400,
+    "cooling": "Dual Fan",
+    "rating": 4.4,
+    "reviewsCount": 38,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.315Z",
+    "updatedAt": "2026-10-24T07:35:29.625Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827328/vram_vault/backplates/seeoqxifxpxt8xpakpym.jpg",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (1080p Low)",
+        "fps1080p": 58,
+        "fps1440p": 36,
+        "fps4k": 18
+      },
+      {
+        "game": "Black Myth: Wukong (1080p Low)",
+        "fps1080p": 48,
+        "fps1440p": 28,
+        "fps4k": 14
+      },
+      {
+        "game": "Valorant / CS2 (High)",
+        "fps1080p": 240,
+        "fps1440p": 165,
+        "fps4k": 95
+      },
+      {
+        "game": "Apex Legends (Med)",
+        "fps1080p": 105,
+        "fps1440p": 68,
+        "fps4k": 35
+      }
+    ],
+    "code": "SM-6200-CR",
+    "coreClock": 1980,
+    "cores": 1792,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827328/vram_vault/desks/uai3vyxpuy2fwjtxah7i.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "Low Profile Mount Option",
+      "Ultra Low Power Consumption",
+      "Thermal Grizzly Pads Installed"
+    ],
+    "id": "gpu-v4-06",
+    "inStock": true,
+    "lengthMm": 195,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827327/vram_vault/products/zvgthuipnzelpczkbgi0.jpg",
+    "originalPrice": 199.99,
+    "ports": [
+      "1x DisplayPort 1.4a",
+      "1x HDMI 2.0b",
+      "1x DVI-D"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827329/vram_vault/ports/qnkrqojgmroqcssawv1v.jpg",
+    "slots": 2,
+    "stockUnits": 12,
+    "tagline": "Super compact chassis compatibility with high thermal-conductive graphite pads"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebd6",
+    "name": "SpecterForge 8G Apex",
+    "slug": "specterforge-8g-apex",
+    "description": "High-density micro-groove cooling block combined with high-frequency memory tuning",
+    "price": 289.99,
+    "stock": 11,
+    "category": "4-8 vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 8,
+    "vramType": "GDDR6",
+    "busWidth": "128-bit",
+    "boostClock": 2650,
+    "tdpWatts": 150,
+    "recommendedPsu": 550,
+    "cooling": "Dual Fan",
+    "rating": 4.7,
+    "reviewsCount": 52,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.316Z",
+    "updatedAt": "2026-10-24T07:35:32.698Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827331/vram_vault/backplates/vle2onhsrx1xbqro2f4n.jpg",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (1080p Ultra)",
+        "fps1080p": 86,
+        "fps1440p": 59,
+        "fps4k": 34
+      },
+      {
+        "game": "Black Myth: Wukong (1080p)",
+        "fps1080p": 74,
+        "fps1440p": 50,
+        "fps4k": 28
+      },
+      {
+        "game": "Valorant / CS2 (High)",
+        "fps1080p": 365,
+        "fps1440p": 260,
+        "fps4k": 155
+      },
+      {
+        "game": "Apex Legends (High)",
+        "fps1080p": 168,
+        "fps1440p": 112,
+        "fps4k": 64
+      }
+    ],
+    "code": "SF-8800-AP",
+    "coreClock": 2210,
+    "cores": 3072,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827330/vram_vault/desks/xtvriij615bi6yjx5ekp.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "Custom Backplate Armor",
+      "Dual BIOS Performance/Quiet Mode",
+      "16-Phase Power Delivery"
+    ],
+    "id": "gpu-v4-07",
+    "inStock": true,
+    "lengthMm": 242,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827330/vram_vault/products/horyziavqpjd9tdh51ic.jpg",
+    "originalPrice": 319.99,
+    "ports": [
+      "3x DisplayPort 1.4a",
+      "1x HDMI 2.1"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827332/vram_vault/ports/vo7aczkscjelgeas7u5x.jpg",
+    "slots": 2.2,
+    "stockUnits": 11,
+    "tagline": "High-density micro-groove cooling block combined with high-frequency memory tuning"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebd7",
+    "name": "Chronos Valkyrie 12G OC",
+    "slug": "chronos-valkyrie-12g-oc",
+    "description": "The sweet spot for ultra-smooth 1440p ray-traced gaming with triple fan thermal dissipation",
+    "price": 499.99,
+    "stock": 22,
+    "category": "8-12 vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 12,
+    "vramType": "GDDR6X",
+    "busWidth": "192-bit",
+    "boostClock": 2680,
+    "tdpWatts": 200,
+    "recommendedPsu": 650,
+    "cooling": "Triple Fan",
+    "rating": 4.9,
+    "reviewsCount": 194,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.316Z",
+    "updatedAt": "2026-10-24T07:35:35.645Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827334/vram_vault/backplates/dabs1lxghamiqula8aku.jpg",
+    "badge": "BESTSELLER",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (1440p RT Ultra)",
+        "fps1080p": 125,
+        "fps1440p": 88,
+        "fps4k": 52
+      },
+      {
+        "game": "Black Myth: Wukong (1440p High)",
+        "fps1080p": 110,
+        "fps1440p": 78,
+        "fps4k": 46
+      },
+      {
+        "game": "Call of Duty: Warzone (1440p)",
+        "fps1080p": 195,
+        "fps1440p": 142,
+        "fps4k": 84
+      },
+      {
+        "game": "Forza Horizon 5 (1440p Extreme)",
+        "fps1080p": 165,
+        "fps1440p": 128,
+        "fps4k": 76
+      }
+    ],
+    "code": "CV-12000-OC",
+    "coreClock": 2280,
+    "cores": 5888,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827334/vram_vault/desks/rrh25zbrl0kz2ji8qgoz.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "Triple Tri-Frostr 4 Fans",
+      "Vapor Chamber Contact",
+      "Custom ARGB Light Bar",
+      "Anti-Bending Plate"
+    ],
+    "id": "gpu-v8-01",
+    "inStock": true,
+    "lengthMm": 295,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827333/vram_vault/products/exbypbnogfi1sulyybnb.jpg",
+    "originalPrice": 549.99,
+    "ports": [
+      "3x DisplayPort 1.4a",
+      "1x HDMI 2.1a"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827335/vram_vault/ports/v0blah7nsgex4onagcra.jpg",
+    "slots": 2.5,
+    "stockUnits": 22,
+    "tagline": "The sweet spot for ultra-smooth 1440p ray-traced gaming with triple fan thermal dissipation"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebd8",
+    "name": "Phantom Venom 10G Master",
+    "slug": "phantom-venom-10g-master",
+    "description": "High-bandwidth memory architecture geared for competitive tournament play and sim-racing",
+    "price": 449.99,
+    "stock": 15,
+    "category": "8-12 vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 10,
+    "vramType": "GDDR6X",
+    "busWidth": "320-bit",
+    "boostClock": 2595,
+    "tdpWatts": 220,
+    "recommendedPsu": 650,
+    "cooling": "Triple Fan",
+    "rating": 4.7,
+    "reviewsCount": 135,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.316Z",
+    "updatedAt": "2026-10-24T07:35:38.433Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827337/vram_vault/backplates/ntkjvhhaa55st1jbaau9.jpg",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (1440p Ultra)",
+        "fps1080p": 118,
+        "fps1440p": 82,
+        "fps4k": 47
+      },
+      {
+        "game": "Black Myth: Wukong (1440p High)",
+        "fps1080p": 102,
+        "fps1440p": 72,
+        "fps4k": 41
+      },
+      {
+        "game": "Call of Duty: Warzone (1440p)",
+        "fps1080p": 180,
+        "fps1440p": 132,
+        "fps4k": 78
+      },
+      {
+        "game": "Forza Horizon 5 (1440p Extreme)",
+        "fps1080p": 152,
+        "fps1440p": 118,
+        "fps4k": 70
+      }
+    ],
+    "code": "PV-10500-MS",
+    "coreClock": 2190,
+    "cores": 5120,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827337/vram_vault/desks/eeactzr0ibyvthf0ndhb.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "Direct Heatsink Contact",
+      "Dual BIOS Overclock Profiler",
+      "Reinforced Magnesium Spine"
+    ],
+    "id": "gpu-v8-02",
+    "inStock": true,
+    "lengthMm": 300,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827336/vram_vault/products/pdjdnipz0tygqwdplma4.jpg",
+    "originalPrice": 489.99,
+    "ports": [
+      "3x DisplayPort 1.4a",
+      "2x HDMI 2.1"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827338/vram_vault/ports/mdmznpmmpqplfm7dwkl2.jpg",
+    "slots": 2.7,
+    "stockUnits": 15,
+    "tagline": "High-bandwidth memory architecture geared for competitive tournament play and sim-racing"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebd9",
+    "name": "Hyperion Eclipse 12G White OC",
+    "slug": "hyperion-eclipse-12g-white-oc",
+    "description": "Pristine arctic white aesthetic with frosted metallic accents and inverted fin array",
+    "price": 529.99,
+    "stock": 9,
+    "category": "8-12 vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 12,
+    "vramType": "GDDR6X",
+    "busWidth": "192-bit",
+    "boostClock": 2715,
+    "tdpWatts": 215,
+    "recommendedPsu": 700,
+    "cooling": "Triple Fan",
+    "rating": 4.9,
+    "reviewsCount": 168,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.316Z",
+    "updatedAt": "2026-10-24T07:35:41.051Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827340/vram_vault/backplates/qrk7kqc61gbzs5vyviym.jpg",
+    "badge": "LIMITED",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (1440p RT Ultra)",
+        "fps1080p": 132,
+        "fps1440p": 93,
+        "fps4k": 55
+      },
+      {
+        "game": "Black Myth: Wukong (1440p High)",
+        "fps1080p": 115,
+        "fps1440p": 82,
+        "fps4k": 49
+      },
+      {
+        "game": "Call of Duty: Warzone (1440p)",
+        "fps1080p": 205,
+        "fps1440p": 148,
+        "fps4k": 88
+      },
+      {
+        "game": "Forza Horizon 5 (1440p Extreme)",
+        "fps1080p": 172,
+        "fps1440p": 134,
+        "fps4k": 82
+      }
+    ],
+    "code": "HE-12000-WOC",
+    "coreClock": 2320,
+    "cores": 6144,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827339/vram_vault/desks/gwyvuquhunnwb8prlqb9.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "Pure White Aluminum Backplate",
+      "Fluid Dynamic Bearings",
+      "Addressable Aura RGB",
+      "Factory Overclocked +8%"
+    ],
+    "id": "gpu-v8-03",
+    "inStock": true,
+    "lengthMm": 310,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827339/vram_vault/products/bgb0fhwyby1ftzeuyjwa.jpg",
+    "originalPrice": 569.99,
+    "ports": [
+      "3x DisplayPort 2.1",
+      "1x HDMI 2.1a"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827341/vram_vault/ports/xmvs6fzswibu6y0ev2wr.jpg",
+    "slots": 2.5,
+    "stockUnits": 9,
+    "tagline": "Pristine arctic white aesthetic with frosted metallic accents and inverted fin array"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebda",
+    "name": "AeroStrike 12G Pro",
+    "slug": "aerostrike-12g-pro",
+    "description": "High-density fin spacing and precision airflow deflectors for continuous high-load stability",
+    "price": 469.99,
+    "stock": 17,
+    "category": "8-12 vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 12,
+    "vramType": "GDDR6",
+    "busWidth": "192-bit",
+    "boostClock": 2640,
+    "tdpWatts": 190,
+    "recommendedPsu": 600,
+    "cooling": "Dual Fan",
+    "rating": 4.6,
+    "reviewsCount": 91,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.316Z",
+    "updatedAt": "2026-10-24T07:35:43.775Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827343/vram_vault/backplates/qpfy5dskg4mqisyyufxh.jpg",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (1440p Ultra)",
+        "fps1080p": 120,
+        "fps1440p": 84,
+        "fps4k": 49
+      },
+      {
+        "game": "Black Myth: Wukong (1440p)",
+        "fps1080p": 106,
+        "fps1440p": 74,
+        "fps4k": 43
+      },
+      {
+        "game": "Call of Duty: Warzone (1440p)",
+        "fps1080p": 188,
+        "fps1440p": 136,
+        "fps4k": 80
+      },
+      {
+        "game": "Forza Horizon 5 (1440p Extreme)",
+        "fps1080p": 158,
+        "fps1440p": 122,
+        "fps4k": 72
+      }
+    ],
+    "code": "AS-12200-PR",
+    "coreClock": 2240,
+    "cores": 5632,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827342/vram_vault/desks/whvxob1houaqg4kds45v.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "High-Thermal Conductive Base",
+      "Steel Bracket Rigidity",
+      "Dual BIOS Performance Profile"
+    ],
+    "id": "gpu-v8-04",
+    "inStock": true,
+    "lengthMm": 260,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827341/vram_vault/products/zhp9vfqkmcmmjw8rgozg.jpg",
+    "originalPrice": 499.99,
+    "ports": [
+      "3x DisplayPort 1.4a",
+      "1x HDMI 2.1"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827343/vram_vault/ports/l2zgjqqnyg6irluub18c.jpg",
+    "slots": 2.2,
+    "stockUnits": 17,
+    "tagline": "High-density fin spacing and precision airflow deflectors for continuous high-load stability"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebdb",
+    "name": "Zenith Storm 12G Extreme",
+    "slug": "zenith-storm-12g-extreme",
+    "description": "Aggressive quad-heatpipe core with vapor dissipation specifically calibrated for creators",
+    "price": 519.99,
+    "stock": 14,
+    "category": "8-12 vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 12,
+    "vramType": "GDDR6X",
+    "busWidth": "192-bit",
+    "boostClock": 2700,
+    "tdpWatts": 210,
+    "recommendedPsu": 700,
+    "cooling": "Triple Fan",
+    "rating": 4.8,
+    "reviewsCount": 120,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.317Z",
+    "updatedAt": "2026-10-24T07:35:46.946Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827345/vram_vault/backplates/o6wrpwh9z3ea2r7ebxii.jpg",
+    "badge": "OVERCLOCKED",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (1440p RT Ultra)",
+        "fps1080p": 129,
+        "fps1440p": 91,
+        "fps4k": 54
+      },
+      {
+        "game": "Black Myth: Wukong (1440p)",
+        "fps1080p": 112,
+        "fps1440p": 80,
+        "fps4k": 47
+      },
+      {
+        "game": "Call of Duty: Warzone (1440p)",
+        "fps1080p": 200,
+        "fps1440p": 145,
+        "fps4k": 86
+      },
+      {
+        "game": "Forza Horizon 5 (1440p Extreme)",
+        "fps1080p": 168,
+        "fps1440p": 130,
+        "fps4k": 79
+      }
+    ],
+    "code": "ZS-12500-EX",
+    "coreClock": 2310,
+    "cores": 6016,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827345/vram_vault/desks/a4ytwnmh2rfkjvgk5p83.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "Vapor Dispersion Plate",
+      "Ultra-Durable Chokes & Caps",
+      "GPU Tweak III Integration"
+    ],
+    "id": "gpu-v8-05",
+    "inStock": true,
+    "lengthMm": 305,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827344/vram_vault/products/pxpgemcpkbuh0tg1o4yx.jpg",
+    "originalPrice": 559.99,
+    "ports": [
+      "3x DisplayPort 2.1",
+      "1x HDMI 2.1a"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827346/vram_vault/ports/xuflgha6un16amyegpza.jpg",
+    "slots": 2.5,
+    "stockUnits": 14,
+    "tagline": "Aggressive quad-heatpipe core with vapor dissipation specifically calibrated for creators"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebdc",
+    "name": "Obsidian Pulse 10G Shadow",
+    "slug": "obsidian-pulse-10g-shadow",
+    "description": "Matte stealth finish with integrated copper contact baseplate and zero coil-whine capacitors",
+    "price": 419.99,
+    "stock": 19,
+    "category": "8-12 vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 10,
+    "vramType": "GDDR6",
+    "busWidth": "160-bit",
+    "boostClock": 2540,
+    "tdpWatts": 175,
+    "recommendedPsu": 600,
+    "cooling": "Dual Fan",
+    "rating": 4.5,
+    "reviewsCount": 77,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.317Z",
+    "updatedAt": "2026-10-24T07:35:49.855Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827349/vram_vault/backplates/gjtggab7h6yzlupf8tw5.jpg",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (1440p High)",
+        "fps1080p": 112,
+        "fps1440p": 77,
+        "fps4k": 44
+      },
+      {
+        "game": "Black Myth: Wukong (1440p)",
+        "fps1080p": 97,
+        "fps1440p": 68,
+        "fps4k": 38
+      },
+      {
+        "game": "Call of Duty: Warzone (1440p)",
+        "fps1080p": 172,
+        "fps1440p": 124,
+        "fps4k": 72
+      },
+      {
+        "game": "Forza Horizon 5 (1440p Extreme)",
+        "fps1080p": 145,
+        "fps1440p": 112,
+        "fps4k": 66
+      }
+    ],
+    "code": "OP-10000-SH",
+    "coreClock": 2120,
+    "cores": 4864,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827348/vram_vault/desks/dcmw8cjzlzlbelarzmfv.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "Low Noise Acoustic Tuning",
+      "High Conductivity Thermal Pads",
+      "All-Black Stealth PCB"
+    ],
+    "id": "gpu-v8-06",
+    "inStock": true,
+    "lengthMm": 250,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827347/vram_vault/products/xzbjsqbnltrjjqyxhvq2.jpg",
+    "originalPrice": 449.99,
+    "ports": [
+      "3x DisplayPort 1.4a",
+      "1x HDMI 2.1"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827349/vram_vault/ports/iuul8bricqgbjenwl0nx.jpg",
+    "slots": 2,
+    "stockUnits": 19,
+    "tagline": "Matte stealth finish with integrated copper contact baseplate and zero coil-whine capacitors"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebdd",
+    "name": "Vortex Titanium 12G Apex",
+    "slug": "vortex-titanium-12g-apex",
+    "description": "Maximum silicon binning with overengineered 14-layer PCB and copper chamber heatplate",
+    "price": 549.99,
+    "stock": 8,
+    "category": "8-12 vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 12,
+    "vramType": "GDDR6X",
+    "busWidth": "192-bit",
+    "boostClock": 2740,
+    "tdpWatts": 220,
+    "recommendedPsu": 700,
+    "cooling": "Triple Fan",
+    "rating": 4.9,
+    "reviewsCount": 142,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.317Z",
+    "updatedAt": "2026-10-24T07:35:53.415Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827351/vram_vault/backplates/k3uhfri2rjio5ydt9ut6.jpg",
+    "badge": "OVERCLOCKED",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (1440p RT Ultra)",
+        "fps1080p": 136,
+        "fps1440p": 96,
+        "fps4k": 58
+      },
+      {
+        "game": "Black Myth: Wukong (1440p High)",
+        "fps1080p": 119,
+        "fps1440p": 85,
+        "fps4k": 51
+      },
+      {
+        "game": "Call of Duty: Warzone (1440p)",
+        "fps1080p": 212,
+        "fps1440p": 152,
+        "fps4k": 92
+      },
+      {
+        "game": "Forza Horizon 5 (1440p Extreme)",
+        "fps1080p": 178,
+        "fps1440p": 138,
+        "fps4k": 85
+      }
+    ],
+    "code": "VT-12800-AP",
+    "coreClock": 2340,
+    "cores": 6272,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827351/vram_vault/desks/wr8uq9cwimgmh10vsq4u.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "Aerospace Titanium Shroud",
+      "Chamber Flow Cooling",
+      "Dual BIOS Performance Selector"
+    ],
+    "id": "gpu-v8-07",
+    "inStock": true,
+    "lengthMm": 312,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827350/vram_vault/products/mulquzljicfgnwtp2bbw.jpg",
+    "originalPrice": 599.99,
+    "ports": [
+      "3x DisplayPort 2.1",
+      "1x HDMI 2.1a"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827352/vram_vault/ports/l2spmx770xmlfk8bqndv.jpg",
+    "slots": 2.7,
+    "stockUnits": 8,
+    "tagline": "Maximum silicon binning with overengineered 14-layer PCB and copper chamber heatplate"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebde",
+    "name": "AERO Titan 16G Vanguard",
+    "slug": "aero-titan-16g-vanguard",
+    "description": "True 4K Ultra Ray Tracing supremacy with massive 256-bit memory bus and vapor dissipation",
+    "price": 799.99,
+    "stock": 16,
+    "category": "16-24 vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 16,
+    "vramType": "GDDR6X",
+    "busWidth": "256-bit",
+    "boostClock": 2780,
+    "tdpWatts": 285,
+    "recommendedPsu": 750,
+    "cooling": "Triple Fan",
+    "rating": 4.9,
+    "reviewsCount": 280,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.317Z",
+    "updatedAt": "2026-10-24T07:35:56.332Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827355/vram_vault/backplates/k7yhtlviiu52lr1oojmn.jpg",
+    "badge": "FLAGSHIP",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (4K Ultra RT)",
+        "fps1080p": 180,
+        "fps1440p": 138,
+        "fps4k": 84
+      },
+      {
+        "game": "Black Myth: Wukong (4K Cinematic)",
+        "fps1080p": 162,
+        "fps1440p": 124,
+        "fps4k": 76
+      },
+      {
+        "game": "Call of Duty: Warzone (4K Ultra)",
+        "fps1080p": 260,
+        "fps1440p": 205,
+        "fps4k": 135
+      },
+      {
+        "game": "Forza Horizon 5 (4K Extreme)",
+        "fps1080p": 240,
+        "fps1440p": 188,
+        "fps4k": 122
+      }
+    ],
+    "code": "AT-16000-VG",
+    "coreClock": 2380,
+    "cores": 8448,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827355/vram_vault/desks/yzdfa8wrb66ymzzx0zwz.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "Vapor Chamber Fusion",
+      "Reinforced Outer Skeleton",
+      "Dual Ball Bearing 100mm Fans",
+      "ARGB Sync Hub"
+    ],
+    "id": "gpu-v16-01",
+    "inStock": true,
+    "lengthMm": 325,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827354/vram_vault/products/uv9oytdpven63mahobxz.jpg",
+    "originalPrice": 879.99,
+    "ports": [
+      "3x DisplayPort 2.1",
+      "1x HDMI 2.1a"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827356/vram_vault/ports/qijeke90xelqbnmr1jhd.jpg",
+    "slots": 3,
+    "stockUnits": 16,
+    "tagline": "True 4K Ultra Ray Tracing supremacy with massive 256-bit memory bus and vapor dissipation"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebdf",
+    "name": "Quantum Eclipse 16G Liquid Pro",
+    "slug": "quantum-eclipse-16g-liquid-pro",
+    "description": "Hybrid liquid vapor-chamber architecture maintaining icy temperatures under sustained 4K renders",
+    "price": 889.99,
+    "stock": 7,
+    "category": "16-24 vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 16,
+    "vramType": "GDDR6X",
+    "busWidth": "256-bit",
+    "boostClock": 2820,
+    "tdpWatts": 300,
+    "recommendedPsu": 800,
+    "cooling": "Liquid Vapor-Chamber",
+    "rating": 5,
+    "reviewsCount": 195,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.317Z",
+    "updatedAt": "2026-10-24T07:35:57.703Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827357/vram_vault/backplates/rtiztwyifmk8znbbtioe.jpg",
+    "badge": "OVERCLOCKED",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (4K Ultra RT)",
+        "fps1080p": 188,
+        "fps1440p": 144,
+        "fps4k": 90
+      },
+      {
+        "game": "Black Myth: Wukong (4K Cinematic)",
+        "fps1080p": 170,
+        "fps1440p": 130,
+        "fps4k": 82
+      },
+      {
+        "game": "Call of Duty: Warzone (4K Ultra)",
+        "fps1080p": 275,
+        "fps1440p": 218,
+        "fps4k": 145
+      },
+      {
+        "game": "Forza Horizon 5 (4K Extreme)",
+        "fps1080p": 252,
+        "fps1440p": 198,
+        "fps4k": 132
+      }
+    ],
+    "code": "QE-16400-LQ",
+    "coreClock": 2420,
+    "cores": 8704,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827311/vram_vault/desks/lece2vflvhchaemskfex.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "Embedded Liquid Micro-Channels",
+      "OLED Status Display on Shroud",
+      "Bespoke Nickel Backplate"
+    ],
+    "id": "gpu-v16-02",
+    "inStock": true,
+    "lengthMm": 330,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827357/vram_vault/products/wbvniqegl3zfcv6qa1wd.jpg",
+    "originalPrice": 949.99,
+    "ports": [
+      "3x DisplayPort 2.1",
+      "2x HDMI 2.1a"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827313/vram_vault/ports/vxd6xlokep88on4dh7kt.jpg",
+    "slots": 3.2,
+    "stockUnits": 7,
+    "tagline": "Hybrid liquid vapor-chamber architecture maintaining icy temperatures under sustained 4K renders"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebe0",
+    "name": "Valkyrie Frost 20G Extreme",
+    "slug": "valkyrie-frost-20g-extreme",
+    "description": "Massive 20GB memory pool with 320-bit bus width engineered for high-res asset streaming",
+    "price": 949.99,
+    "stock": 10,
+    "category": "16-24 vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 20,
+    "vramType": "GDDR6",
+    "busWidth": "320-bit",
+    "boostClock": 2750,
+    "tdpWatts": 315,
+    "recommendedPsu": 800,
+    "cooling": "Triple Fan",
+    "rating": 4.8,
+    "reviewsCount": 142,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.317Z",
+    "updatedAt": "2026-10-24T07:35:59.048Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827359/vram_vault/backplates/ds1z6qti14n7qf2qbsfl.jpg",
+    "badge": "BESTSELLER",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (4K Ultra RT)",
+        "fps1080p": 195,
+        "fps1440p": 150,
+        "fps4k": 95
+      },
+      {
+        "game": "Black Myth: Wukong (4K Cinematic)",
+        "fps1080p": 178,
+        "fps1440p": 138,
+        "fps4k": 88
+      },
+      {
+        "game": "Call of Duty: Warzone (4K Ultra)",
+        "fps1080p": 290,
+        "fps1440p": 230,
+        "fps4k": 155
+      },
+      {
+        "game": "Forza Horizon 5 (4K Extreme)",
+        "fps1080p": 265,
+        "fps1440p": 210,
+        "fps4k": 142
+      }
+    ],
+    "code": "VF-20000-EX",
+    "coreClock": 2360,
+    "cores": 9216,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827316/vram_vault/desks/pmqnywcjjprhzznsoff9.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "High-Velocity Wingtip Fans",
+      "320-bit Wide Memory Pipeline",
+      "Cast Metal Unibody Exoskeleton"
+    ],
+    "id": "gpu-v16-03",
+    "inStock": true,
+    "lengthMm": 335,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827358/vram_vault/products/wgjea8pm3dzz2m0tiniy.jpg",
+    "originalPrice": 1049.99,
+    "ports": [
+      "3x DisplayPort 2.1",
+      "1x HDMI 2.1a"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827317/vram_vault/ports/tzq9lq4epkbouq94vewr.jpg",
+    "slots": 3,
+    "stockUnits": 10,
+    "tagline": "Massive 20GB memory pool with 320-bit bus width engineered for high-res asset streaming"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebe1",
+    "name": "Phantom Sovereign 16G Black",
+    "slug": "phantom-sovereign-16g-black",
+    "description": "Deep black anodized shroud with subtle crimson underglow and zero-sag retention bracket",
+    "price": 779.99,
+    "stock": 12,
+    "category": "16-24 vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 16,
+    "vramType": "GDDR6X",
+    "busWidth": "256-bit",
+    "boostClock": 2740,
+    "tdpWatts": 275,
+    "recommendedPsu": 750,
+    "cooling": "Triple Fan",
+    "rating": 4.8,
+    "reviewsCount": 110,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.317Z",
+    "updatedAt": "2026-10-24T07:36:00.406Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827360/vram_vault/backplates/ffz1aq3tc6m9zgpuiq87.jpg",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (4K Ultra)",
+        "fps1080p": 175,
+        "fps1440p": 132,
+        "fps4k": 80
+      },
+      {
+        "game": "Black Myth: Wukong (4K)",
+        "fps1080p": 156,
+        "fps1440p": 118,
+        "fps4k": 72
+      },
+      {
+        "game": "Call of Duty: Warzone (4K)",
+        "fps1080p": 250,
+        "fps1440p": 195,
+        "fps4k": 128
+      },
+      {
+        "game": "Forza Horizon 5 (4K Extreme)",
+        "fps1080p": 230,
+        "fps1440p": 180,
+        "fps4k": 115
+      }
+    ],
+    "code": "PS-16800-BK",
+    "coreClock": 2350,
+    "cores": 8192,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827319/vram_vault/desks/phbw9rs01tvhkgwezivn.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "Dark Anodized Aluminum Fins",
+      "Zero Noise Thermal Sensor",
+      "Dual Ball Bearing System"
+    ],
+    "id": "gpu-v16-04",
+    "inStock": true,
+    "lengthMm": 320,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827359/vram_vault/products/wu3scbusjqbntpgslie7.jpg",
+    "originalPrice": 829.99,
+    "ports": [
+      "3x DisplayPort 2.1",
+      "1x HDMI 2.1a"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827320/vram_vault/ports/gukwju2aulzsavauwgfb.jpg",
+    "slots": 2.8,
+    "stockUnits": 12,
+    "tagline": "Deep black anodized shroud with subtle crimson underglow and zero-sag retention bracket"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebe2",
+    "name": "Apex Striker 24G Gaming OC",
+    "slug": "apex-striker-24g-gaming-oc",
+    "description": "Uncompromised 24GB VRAM buffer engineered for high-refresh 4K gaming and Unreal Engine 5 developers",
+    "price": 1199.99,
+    "stock": 8,
+    "category": "16-24 vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 24,
+    "vramType": "GDDR6X",
+    "busWidth": "384-bit",
+    "boostClock": 2800,
+    "tdpWatts": 355,
+    "recommendedPsu": 850,
+    "cooling": "Triple Fan",
+    "rating": 4.9,
+    "reviewsCount": 215,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.318Z",
+    "updatedAt": "2026-10-24T07:36:01.793Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827361/vram_vault/backplates/sdzst2y7avhocyqgrg9p.jpg",
+    "badge": "FLAGSHIP",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (4K Ultra RT)",
+        "fps1080p": 215,
+        "fps1440p": 168,
+        "fps4k": 108
+      },
+      {
+        "game": "Black Myth: Wukong (4K Cinematic)",
+        "fps1080p": 195,
+        "fps1440p": 152,
+        "fps4k": 99
+      },
+      {
+        "game": "Call of Duty: Warzone (4K Ultra)",
+        "fps1080p": 310,
+        "fps1440p": 250,
+        "fps4k": 175
+      },
+      {
+        "game": "Forza Horizon 5 (4K Extreme)",
+        "fps1080p": 285,
+        "fps1440p": 228,
+        "fps4k": 158
+      }
+    ],
+    "code": "AS-24000-OC",
+    "coreClock": 2400,
+    "cores": 10240,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827321/vram_vault/desks/l98utmkzo6qujznurr6p.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "VaporFlow Direct Contact",
+      "Overclocked Silicon Matrix",
+      "Solid Copper Backing",
+      "24-Phase VRM"
+    ],
+    "id": "gpu-v16-05",
+    "inStock": true,
+    "lengthMm": 340,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827361/vram_vault/products/p5vam3hdvbt6jcruxp1g.jpg",
+    "originalPrice": 1299.99,
+    "ports": [
+      "3x DisplayPort 2.1",
+      "2x HDMI 2.1a"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827323/vram_vault/ports/lfadqyvirxv2wbylzisn.jpg",
+    "slots": 3.5,
+    "stockUnits": 8,
+    "tagline": "Uncompromised 24GB VRAM buffer engineered for high-refresh 4K gaming and Unreal Engine 5 developers"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebe3",
+    "name": "Nebula Force 16G Cyber",
+    "slug": "nebula-force-16g-cyber",
+    "description": "Futuristic geometric armor with multi-zone addressable RGB and high static-pressure blades",
+    "price": 819.99,
+    "stock": 15,
+    "category": "16-24 vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 16,
+    "vramType": "GDDR6X",
+    "busWidth": "256-bit",
+    "boostClock": 2760,
+    "tdpWatts": 280,
+    "recommendedPsu": 750,
+    "cooling": "Triple Fan",
+    "rating": 4.7,
+    "reviewsCount": 88,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.318Z",
+    "updatedAt": "2026-10-24T07:36:02.457Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827312/vram_vault/backplates/s0cykfu3ue3v7vgkcyf9.jpg",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (4K Ultra)",
+        "fps1080p": 178,
+        "fps1440p": 135,
+        "fps4k": 82
+      },
+      {
+        "game": "Black Myth: Wukong (4K)",
+        "fps1080p": 160,
+        "fps1440p": 121,
+        "fps4k": 74
+      },
+      {
+        "game": "Call of Duty: Warzone (4K)",
+        "fps1080p": 255,
+        "fps1440p": 200,
+        "fps4k": 132
+      },
+      {
+        "game": "Forza Horizon 5 (4K Extreme)",
+        "fps1080p": 235,
+        "fps1440p": 184,
+        "fps4k": 118
+      }
+    ],
+    "code": "NF-16200-CB",
+    "coreClock": 2370,
+    "cores": 8320,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827324/vram_vault/desks/x6xbtndqzpcrilkn37iz.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "Cyberpunk Aesthetic Armor",
+      "Aura RGB Customization",
+      "High-Tensile Aluminum Backing"
+    ],
+    "id": "gpu-v16-06",
+    "inStock": true,
+    "lengthMm": 318,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827362/vram_vault/products/llizhoilcfgeatynobtn.jpg",
+    "originalPrice": 879.99,
+    "ports": [
+      "3x DisplayPort 2.1",
+      "1x HDMI 2.1a"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827326/vram_vault/ports/xvrtngbhomblauksjtgi.jpg",
+    "slots": 2.8,
+    "stockUnits": 15,
+    "tagline": "Futuristic geometric armor with multi-zone addressable RGB and high static-pressure blades"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebe4",
+    "name": "Apex Omniverse 24G Colossus",
+    "slug": "apex-omniverse-24g-colossus",
+    "description": "The undisputed pinnacle of compute power: 24GB GDDR6X, quad-slot heatsink, and supreme AI training performance",
+    "price": 1599.99,
+    "stock": 6,
+    "category": "24 and above vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 24,
+    "vramType": "GDDR6X",
+    "busWidth": "384-bit",
+    "boostClock": 2940,
+    "tdpWatts": 450,
+    "recommendedPsu": 1000,
+    "cooling": "Triple Fan",
+    "rating": 5,
+    "reviewsCount": 340,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.318Z",
+    "updatedAt": "2026-10-24T07:36:03.091Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827316/vram_vault/backplates/y4velpt2llt8qpdpfhjx.jpg",
+    "badge": "FLAGSHIP",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (4K Path Tracing)",
+        "fps1080p": 260,
+        "fps1440p": 205,
+        "fps4k": 132
+      },
+      {
+        "game": "Black Myth: Wukong (4K Max Cinema)",
+        "fps1080p": 240,
+        "fps1440p": 185,
+        "fps4k": 120
+      },
+      {
+        "game": "Call of Duty: Warzone (4K Ultra)",
+        "fps1080p": 380,
+        "fps1440p": 310,
+        "fps4k": 215
+      },
+      {
+        "game": "Forza Horizon 5 (4K Extreme)",
+        "fps1080p": 340,
+        "fps1440p": 275,
+        "fps4k": 195
+      }
+    ],
+    "code": "AO-24900-CL",
+    "coreClock": 2520,
+    "cores": 16384,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827328/vram_vault/desks/uai3vyxpuy2fwjtxah7i.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "Patented Vacuum Vapor Chamber",
+      "Die-Cast Aluminum Exoskeleton",
+      "16-Pin 12V-2x6 Power Connector",
+      "384-bit Memory Bus @ 24 Gbps"
+    ],
+    "id": "gpu-v24-01",
+    "inStock": true,
+    "lengthMm": 358,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827363/vram_vault/products/fxvxq89cd2xrs5w1qzht.jpg",
+    "originalPrice": 1749.99,
+    "ports": [
+      "3x DisplayPort 2.1",
+      "2x HDMI 2.1a"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827329/vram_vault/ports/qnkrqojgmroqcssawv1v.jpg",
+    "slots": 3.8,
+    "stockUnits": 6,
+    "tagline": "The undisputed pinnacle of compute power: 24GB GDDR6X, quad-slot heatsink, and supreme AI training performance"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebe5",
+    "name": "Titanium Quantum 32G Workstation",
+    "slug": "titanium-quantum-32g-workstation",
+    "description": "Massive 32GB memory architecture optimized for Large Language Models, 3D VFX, and multi-stream 8K video",
+    "price": 1899.99,
+    "stock": 4,
+    "category": "24 and above vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 32,
+    "vramType": "GDDR6X",
+    "busWidth": "384-bit",
+    "boostClock": 2880,
+    "tdpWatts": 480,
+    "recommendedPsu": 1100,
+    "cooling": "Triple Fan",
+    "rating": 5,
+    "reviewsCount": 180,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.318Z",
+    "updatedAt": "2026-10-24T07:36:03.828Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827319/vram_vault/backplates/ecexe7aug5ntbzjsy4l0.jpg",
+    "badge": "FLAGSHIP",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (4K Path Tracing)",
+        "fps1080p": 270,
+        "fps1440p": 215,
+        "fps4k": 140
+      },
+      {
+        "game": "Black Myth: Wukong (4K Max Cinema)",
+        "fps1080p": 250,
+        "fps1440p": 195,
+        "fps4k": 128
+      },
+      {
+        "game": "Call of Duty: Warzone (4K Ultra)",
+        "fps1080p": 395,
+        "fps1440p": 325,
+        "fps4k": 228
+      },
+      {
+        "game": "Forza Horizon 5 (4K Extreme)",
+        "fps1080p": 355,
+        "fps1440p": 290,
+        "fps4k": 208
+      }
+    ],
+    "code": "TQ-32000-WS",
+    "coreClock": 2450,
+    "cores": 17408,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827330/vram_vault/desks/xtvriij615bi6yjx5ekp.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "32GB ECC Hardware Support",
+      "Dual BIOS AI Mode",
+      "Industrial Blower & Flow-Through Fin Array"
+    ],
+    "id": "gpu-v24-02",
+    "inStock": true,
+    "lengthMm": 360,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827363/vram_vault/products/pt6evgsyvewet9uz7mxy.jpg",
+    "originalPrice": 2099.99,
+    "ports": [
+      "4x DisplayPort 2.1",
+      "1x HDMI 2.1a"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827332/vram_vault/ports/vo7aczkscjelgeas7u5x.jpg",
+    "slots": 3.5,
+    "stockUnits": 4,
+    "tagline": "Massive 32GB memory architecture optimized for Large Language Models, 3D VFX, and multi-stream 8K video"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebe6",
+    "name": "Vortex Liquid Apex 24G Hydro",
+    "slug": "vortex-liquid-apex-24g-hydro",
+    "description": "Integrated full-coverage liquid block with copper coldplate, keeping sub-55°C under maximum sustained compute",
+    "price": 1749.99,
+    "stock": 5,
+    "category": "24 and above vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 24,
+    "vramType": "GDDR6X",
+    "busWidth": "384-bit",
+    "boostClock": 2990,
+    "tdpWatts": 460,
+    "recommendedPsu": 1000,
+    "cooling": "Liquid Vapor-Chamber",
+    "rating": 4.9,
+    "reviewsCount": 145,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.318Z",
+    "updatedAt": "2026-10-24T07:36:04.555Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827322/vram_vault/backplates/hceiwj160phzqglr2oyz.jpg",
+    "badge": "OVERCLOCKED",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (4K Path Tracing)",
+        "fps1080p": 280,
+        "fps1440p": 222,
+        "fps4k": 145
+      },
+      {
+        "game": "Black Myth: Wukong (4K Max Cinema)",
+        "fps1080p": 258,
+        "fps1440p": 202,
+        "fps4k": 134
+      },
+      {
+        "game": "Call of Duty: Warzone (4K Ultra)",
+        "fps1080p": 410,
+        "fps1440p": 338,
+        "fps4k": 236
+      },
+      {
+        "game": "Forza Horizon 5 (4K Extreme)",
+        "fps1080p": 370,
+        "fps1440p": 300,
+        "fps4k": 218
+      }
+    ],
+    "code": "VL-24000-HD",
+    "coreClock": 2580,
+    "cores": 16896,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827334/vram_vault/desks/rrh25zbrl0kz2ji8qgoz.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "Direct Micro-Channel Jet Plate",
+      "Full Coverage CNC Aluminum Waterblock",
+      "Overclocking Reserve +12%"
+    ],
+    "id": "gpu-v24-03",
+    "inStock": true,
+    "lengthMm": 310,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827364/vram_vault/products/jd86idu9y34vsqteifez.jpg",
+    "originalPrice": 1899.99,
+    "ports": [
+      "3x DisplayPort 2.1",
+      "2x HDMI 2.1a"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827335/vram_vault/ports/v0blah7nsgex4onagcra.jpg",
+    "slots": 2.5,
+    "stockUnits": 5,
+    "tagline": "Integrated full-coverage liquid block with copper coldplate, keeping sub-55°C under maximum sustained compute"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebe7",
+    "name": "Phantom Emperor 24G Black Gold",
+    "slug": "phantom-emperor-24g-black-gold",
+    "description": "Limited edition matte black chassis with 24K gold plated accents, dual BIOS, and ceramic bearings",
+    "price": 1649.99,
+    "stock": 7,
+    "category": "24 and above vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 24,
+    "vramType": "GDDR6X",
+    "busWidth": "384-bit",
+    "boostClock": 2920,
+    "tdpWatts": 430,
+    "recommendedPsu": 1000,
+    "cooling": "Triple Fan",
+    "rating": 4.9,
+    "reviewsCount": 96,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.318Z",
+    "updatedAt": "2026-10-24T07:36:05.367Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827325/vram_vault/backplates/tapssrxvw6foguubkipv.jpg",
+    "badge": "LIMITED",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (4K Path Tracing)",
+        "fps1080p": 255,
+        "fps1440p": 200,
+        "fps4k": 128
+      },
+      {
+        "game": "Black Myth: Wukong (4K Max Cinema)",
+        "fps1080p": 235,
+        "fps1440p": 180,
+        "fps4k": 116
+      },
+      {
+        "game": "Call of Duty: Warzone (4K Ultra)",
+        "fps1080p": 375,
+        "fps1440p": 305,
+        "fps4k": 210
+      },
+      {
+        "game": "Forza Horizon 5 (4K Extreme)",
+        "fps1080p": 335,
+        "fps1440p": 270,
+        "fps4k": 190
+      }
+    ],
+    "code": "PE-24500-BG",
+    "coreClock": 2510,
+    "cores": 16128,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827337/vram_vault/desks/eeactzr0ibyvthf0ndhb.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "Gold Anodized Heatspreaders",
+      "Individually Serialized Plaque",
+      "Acoustic Silencing Baffles"
+    ],
+    "id": "gpu-v24-04",
+    "inStock": true,
+    "lengthMm": 350,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827365/vram_vault/products/genou3imkvnbjye4kzhh.jpg",
+    "originalPrice": 1799.99,
+    "ports": [
+      "3x DisplayPort 2.1",
+      "1x HDMI 2.1a"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827338/vram_vault/ports/mdmznpmmpqplfm7dwkl2.jpg",
+    "slots": 3.5,
+    "stockUnits": 7,
+    "tagline": "Limited edition matte black chassis with 24K gold plated accents, dual BIOS, and ceramic bearings"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebe8",
+    "name": "CyberForge Hyperion 48G Enterprise",
+    "slug": "cyberforge-hyperion-48g-enterprise",
+    "description": "Unprecedented 48GB HBM3e high-bandwidth unified memory designed for massive neural networks and simulation physics",
+    "price": 2499.99,
+    "stock": 3,
+    "category": "24 and above vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 48,
+    "vramType": "HBM3e",
+    "busWidth": "512-bit",
+    "boostClock": 2750,
+    "tdpWatts": 500,
+    "recommendedPsu": 1200,
+    "cooling": "Blower Edition",
+    "rating": 5,
+    "reviewsCount": 74,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.318Z",
+    "updatedAt": "2026-10-24T07:36:06.198Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827328/vram_vault/backplates/seeoqxifxpxt8xpakpym.jpg",
+    "badge": "FLAGSHIP",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (4K Path Tracing)",
+        "fps1080p": 285,
+        "fps1440p": 228,
+        "fps4k": 152
+      },
+      {
+        "game": "Black Myth: Wukong (4K Max Cinema)",
+        "fps1080p": 265,
+        "fps1440p": 210,
+        "fps4k": 140
+      },
+      {
+        "game": "Call of Duty: Warzone (4K Ultra)",
+        "fps1080p": 420,
+        "fps1440p": 350,
+        "fps4k": 245
+      },
+      {
+        "game": "Forza Horizon 5 (4K Extreme)",
+        "fps1080p": 380,
+        "fps1440p": 315,
+        "fps4k": 225
+      }
+    ],
+    "code": "CF-48000-EP",
+    "coreClock": 2350,
+    "cores": 19456,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827339/vram_vault/desks/gwyvuquhunnwb8prlqb9.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "48GB HBM3e Ultra-Fast Stack",
+      "Enterprise ECC Memory Validation",
+      "Server-Rack Tuned Airflow Exhaust"
+    ],
+    "id": "gpu-v24-05",
+    "inStock": true,
+    "lengthMm": 345,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827366/vram_vault/products/fls3thuhrvtmfuohdtdo.jpg",
+    "originalPrice": 2799.99,
+    "ports": [
+      "4x DisplayPort 2.1 (UHBR20)"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827341/vram_vault/ports/xmvs6fzswibu6y0ev2wr.jpg",
+    "slots": 2.5,
+    "stockUnits": 3,
+    "tagline": "Unprecedented 48GB HBM3e high-bandwidth unified memory designed for massive neural networks and simulation physics"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebe9",
+    "name": "AeroMax Titan 24G Stealth",
+    "slug": "aeromax-titan-24g-stealth",
+    "description": "Industrial stealth finish with high-density vapor fin routing and zero glare finish",
+    "price": 1549.99,
+    "stock": 9,
+    "category": "24 and above vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 24,
+    "vramType": "GDDR6X",
+    "busWidth": "384-bit",
+    "boostClock": 2900,
+    "tdpWatts": 420,
+    "recommendedPsu": 1000,
+    "cooling": "Triple Fan",
+    "rating": 4.8,
+    "reviewsCount": 112,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.318Z",
+    "updatedAt": "2026-10-24T07:36:06.969Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827331/vram_vault/backplates/vle2onhsrx1xbqro2f4n.jpg",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (4K Path Tracing)",
+        "fps1080p": 250,
+        "fps1440p": 196,
+        "fps4k": 125
+      },
+      {
+        "game": "Black Myth: Wukong (4K Max Cinema)",
+        "fps1080p": 230,
+        "fps1440p": 176,
+        "fps4k": 114
+      },
+      {
+        "game": "Call of Duty: Warzone (4K Ultra)",
+        "fps1080p": 368,
+        "fps1440p": 298,
+        "fps4k": 205
+      },
+      {
+        "game": "Forza Horizon 5 (4K Extreme)",
+        "fps1080p": 328,
+        "fps1440p": 265,
+        "fps4k": 185
+      }
+    ],
+    "code": "AM-24000-ST",
+    "coreClock": 2480,
+    "cores": 15872,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827342/vram_vault/desks/whvxob1houaqg4kds45v.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "Stealth Vapor Fins",
+      "Solid Anti-Sag Brace Bar Included",
+      "100% Solid Polymer Capacitors"
+    ],
+    "id": "gpu-v24-06",
+    "inStock": true,
+    "lengthMm": 348,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827366/vram_vault/products/mgvgxye2ss8jvzakk1da.jpg",
+    "originalPrice": 1699.99,
+    "ports": [
+      "3x DisplayPort 2.1",
+      "1x HDMI 2.1a"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827343/vram_vault/ports/l2zgjqqnyg6irluub18c.jpg",
+    "slots": 3.5,
+    "stockUnits": 9,
+    "tagline": "Industrial stealth finish with high-density vapor fin routing and zero glare finish"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebea",
+    "name": "Specter Godlike 24G Extreme",
+    "slug": "specter-godlike-24g-extreme",
+    "description": "Custom OLED dashboard on top edge displaying real-time clock speeds, VRAM temperature, and GPU usage",
+    "price": 1699.99,
+    "stock": 5,
+    "category": "24 and above vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 24,
+    "vramType": "GDDR6X",
+    "busWidth": "384-bit",
+    "boostClock": 2960,
+    "tdpWatts": 460,
+    "recommendedPsu": 1050,
+    "cooling": "Triple Fan",
+    "rating": 5,
+    "reviewsCount": 220,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.319Z",
+    "updatedAt": "2026-10-24T07:36:07.641Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827334/vram_vault/backplates/dabs1lxghamiqula8aku.jpg",
+    "badge": "OVERCLOCKED",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (4K Path Tracing)",
+        "fps1080p": 265,
+        "fps1440p": 210,
+        "fps4k": 136
+      },
+      {
+        "game": "Black Myth: Wukong (4K Max Cinema)",
+        "fps1080p": 245,
+        "fps1440p": 190,
+        "fps4k": 124
+      },
+      {
+        "game": "Call of Duty: Warzone (4K Ultra)",
+        "fps1080p": 388,
+        "fps1440p": 318,
+        "fps4k": 220
+      },
+      {
+        "game": "Forza Horizon 5 (4K Extreme)",
+        "fps1080p": 348,
+        "fps1440p": 282,
+        "fps4k": 200
+      }
+    ],
+    "code": "SG-24000-GL",
+    "coreClock": 2540,
+    "cores": 16640,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827345/vram_vault/desks/a4ytwnmh2rfkjvgk5p83.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "3.5-inch IPS Diagnostic Display",
+      "Direct Liquid Sintered Heatpipes",
+      "Military-Grade Chokes"
+    ],
+    "id": "gpu-v24-07",
+    "inStock": true,
+    "lengthMm": 362,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827367/vram_vault/products/b3wafrjehyxk4hqgglj5.jpg",
+    "originalPrice": 1849.99,
+    "ports": [
+      "3x DisplayPort 2.1",
+      "2x HDMI 2.1a"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827346/vram_vault/ports/xuflgha6un16amyegpza.jpg",
+    "slots": 3.8,
+    "stockUnits": 5,
+    "tagline": "Custom OLED dashboard on top edge displaying real-time clock speeds, VRAM temperature, and GPU usage"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebeb",
+    "name": "Zenith Apex 24G Starlight",
+    "slug": "zenith-apex-24g-starlight",
+    "description": "Silver mirrored backplate with edge ambient LED diffuse bars and triple 110mm hydrodynamic fans",
+    "price": 1589.99,
+    "stock": 7,
+    "category": "24 and above vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 24,
+    "vramType": "GDDR6X",
+    "busWidth": "384-bit",
+    "boostClock": 2915,
+    "tdpWatts": 440,
+    "recommendedPsu": 1000,
+    "cooling": "Triple Fan",
+    "rating": 4.8,
+    "reviewsCount": 95,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.319Z",
+    "updatedAt": "2026-10-24T07:36:08.284Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827337/vram_vault/backplates/ntkjvhhaa55st1jbaau9.jpg",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (4K Path Tracing)",
+        "fps1080p": 252,
+        "fps1440p": 198,
+        "fps4k": 127
+      },
+      {
+        "game": "Black Myth: Wukong (4K Max Cinema)",
+        "fps1080p": 232,
+        "fps1440p": 178,
+        "fps4k": 115
+      },
+      {
+        "game": "Call of Duty: Warzone (4K Ultra)",
+        "fps1080p": 370,
+        "fps1440p": 300,
+        "fps4k": 208
+      },
+      {
+        "game": "Forza Horizon 5 (4K Extreme)",
+        "fps1080p": 330,
+        "fps1440p": 268,
+        "fps4k": 188
+      }
+    ],
+    "code": "ZA-24000-SL",
+    "coreClock": 2500,
+    "cores": 16128,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827348/vram_vault/desks/dcmw8cjzlzlbelarzmfv.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "Mirrored Chrome Backplate",
+      "Dual BIOS Silence/Extreme Curve",
+      "Full Copper Baseblock"
+    ],
+    "id": "gpu-v24-08",
+    "inStock": true,
+    "lengthMm": 355,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827368/vram_vault/products/nbxwoyom6pyzpmdpvuwc.jpg",
+    "originalPrice": 1729.99,
+    "ports": [
+      "3x DisplayPort 2.1",
+      "1x HDMI 2.1a"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827349/vram_vault/ports/iuul8bricqgbjenwl0nx.jpg",
+    "slots": 3.5,
+    "stockUnits": 7,
+    "tagline": "Silver mirrored backplate with edge ambient LED diffuse bars and triple 110mm hydrodynamic fans"
+  },
+  {
+    "_id": "6adb4c6e718388b2ea12ebec",
+    "name": "Vortex Overdrive 24G CyberPulse",
+    "slug": "vortex-overdrive-24g-cyberpulse",
+    "description": "Tuned for peak sustained frequency under heaviest rendering and benchmark loops with dual fan air channels",
+    "price": 1629.99,
+    "stock": 11,
+    "category": "24 and above vram",
+    "images": [],
+    "isActive": true,
+    "vramGB": 24,
+    "vramType": "GDDR6X",
+    "busWidth": "384-bit",
+    "boostClock": 2950,
+    "tdpWatts": 450,
+    "recommendedPsu": 1000,
+    "cooling": "Triple Fan",
+    "rating": 4.9,
+    "reviewsCount": 165,
+    "__v": 0,
+    "createdAt": "2026-10-23T12:00:46.319Z",
+    "updatedAt": "2026-10-24T07:36:09.151Z",
+    "backImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827340/vram_vault/backplates/qrk7kqc61gbzs5vyviym.jpg",
+    "badge": "BESTSELLER",
+    "benchmarks": [
+      {
+        "game": "Cyberpunk 2077 (4K Path Tracing)",
+        "fps1080p": 262,
+        "fps1440p": 208,
+        "fps4k": 134
+      },
+      {
+        "game": "Black Myth: Wukong (4K Max Cinema)",
+        "fps1080p": 242,
+        "fps1440p": 188,
+        "fps4k": 122
+      },
+      {
+        "game": "Call of Duty: Warzone (4K Ultra)",
+        "fps1080p": 384,
+        "fps1440p": 314,
+        "fps4k": 218
+      },
+      {
+        "game": "Forza Horizon 5 (4K Extreme)",
+        "fps1080p": 344,
+        "fps1440p": 278,
+        "fps4k": 196
+      }
+    ],
+    "code": "VO-24000-CP",
+    "coreClock": 2530,
+    "cores": 16384,
+    "deskImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827351/vram_vault/desks/wr8uq9cwimgmh10vsq4u.jpg",
+    "fanImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827314/vram_vault/fans/pnxedyewaejv6tt0dvqx.jpg",
+    "features": [
+      "Triple Reverse-Spinning Fans",
+      "High Dynamic Range RGB Matrix",
+      "Aerospace Grade Chokes"
+    ],
+    "id": "gpu-v24-09",
+    "inStock": true,
+    "lengthMm": 352,
+    "mainImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827369/vram_vault/products/hnkwmd3lzslidxtmsvwq.jpg",
+    "originalPrice": 1779.99,
+    "ports": [
+      "3x DisplayPort 2.1",
+      "2x HDMI 2.1a"
+    ],
+    "portsImage": "https://res.cloudinary.com/gmasaac8/image/upload/v1792827352/vram_vault/ports/l2spmx770xmlfk8bqndv.jpg",
+    "slots": 3.6,
+    "stockUnits": 11,
+    "tagline": "Tuned for peak sustained frequency under heaviest rendering and benchmark loops with dual fan air channels"
+  }
+]
