@@ -1,4 +1,8 @@
-const API_URL = (import.meta as any).env?.VITE_API_URL || 'http://localhost:5000/api';
+// In production the Express server also serves the frontend, so the API is on the same site ("/api").
+// In local development the API runs on port 5000.
+const API_URL =
+  (import.meta as any).env?.VITE_API_URL ||
+  ((import.meta as any).env?.PROD ? '/api' : 'http://localhost:5000/api');
 
 let authToken: string | null = localStorage.getItem('vram_vault_token') || null;
 
